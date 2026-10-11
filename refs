@@ -14,7 +14,7 @@ local Window = Rayfield:CreateWindow({
    ConfigurationSaving = {
       Enabled = true
    },
-   KeySystem = false
+   KeySystem = true
 })
 
 -- Services
